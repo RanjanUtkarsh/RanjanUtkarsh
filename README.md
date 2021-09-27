@@ -2,7 +2,7 @@ Hi there. I’m Utkarsh
 - 👀 I love maths, programming, data science, quizzing and football
 - 🌱 I’m currently learning about BERT and different language models
 - 💞️ I’m currently working at Gartner, Inc
-- 📫 How to reach me:
+- 📫 How to reach out to me:
    * [Mail](utkarshranjan@hotmail.com)
 
 <!---
