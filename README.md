@@ -3,7 +3,7 @@ Hi there. I’m Utkarsh
 - 🌱 I’m currently learning about BERT and different language models
 - 💞️ I’m lcurrently working at Gartner, Inc
 - 📫 How to reach me:
-      * [Mail](utkarshranjan@hotmail.com)
+- * [Mail](utkarshranjan@hotmail.com)
 
 <!---
 RanjanUtkarsh/RanjanUtkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
